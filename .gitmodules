@@ -1,0 +1,6 @@
+[submodule "repositories/v-usb"]
+	path = repositories/v-usb
+	url = https://github.com/obdev/v-usb.git
+[submodule "repositories/Upstream-DigisparkCDC"]
+	path = repositories/Upstream-DigisparkCDC
+	url = https://github.com/ArminJo/DigistumpArduino.git
